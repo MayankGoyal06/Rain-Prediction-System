@@ -101,9 +101,7 @@ Create a feature branch.
 Commit your changes.
 Push to your branch.
 Open a Pull Request.
-License
 
-This project is licensed under the MIT License.
 
 Author
 
